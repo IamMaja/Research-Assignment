@@ -1,3 +1,3 @@
 # Research-Assignment
-Theory assignment for Bright Learn
+Theory assignment for Bright Learn.
 This repository presents my completed research assignment for the Introduction to Data & Artificial Intelligence course. The work demonstrates a foundational understanding of key concepts in data analytics, artificial intelligence, and modern software development practices. Exploration of core data concepts, including databases, data warehouses, data lakes, data modeling, ETL processes, and common data storage formats. The primary objective of this assignment is to develop a solid foundational knowledge of data and AI concepts, alongside strengthening research, analytical thinking, and the ability to communicate technical ideas effectively.
